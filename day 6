@@ -1,0 +1,60 @@
+Day 6 – Resume Optimization with AI
+
+Overview
+A resume is often the first interaction between a candidate and a recruiter. Before a human reviews it, Applicant Tracking Systems (ATS) frequently scan and filter resumes based on structure, formatting, and keywords.
+
+In this project, I explored how AI can assist in improving resume quality while ensuring all information remains accurate and truthful.
+
+Objectives
+
+1. ATS Optimization
+- Improved resume structure for ATS parsing.
+- Enhanced section organization and keyword placement.
+- Removed formatting elements that may confuse ATS systems.
+
+2. Recruiter Readability
+- Made achievements clearer and more measurable.
+- Improved sentence structure and professional language.
+- Increased readability through better formatting.
+
+3. Professional Branding
+- Strengthened professional summary.
+- Highlighted technical skills effectively.
+- Improved project descriptions and impact statements.
+
+4. Career Readiness
+- Created a polished resume suitable for internships and entry-level roles.
+- Improved overall presentation and professionalism.
+
+Workflow
+
+1. Reviewed existing resume.
+2. Identified ATS-related issues.
+3. Used AI to suggest improvements.
+4. Refined professional summary and skills section.
+5. Improved project and achievement descriptions.
+6. Verified all information for accuracy.
+7. Generated an optimized resume version.
+
+Key Learnings
+
+- ATS-friendly formatting significantly improves resume parsing.
+- Action verbs make achievements more impactful.
+- Quantifiable results strengthen resume credibility.
+- Clear section hierarchy improves recruiter experience.
+- AI can accelerate resume improvement while maintaining authenticity.
+
+Files
+
+- `original_resume.pdf` – Original resume version.
+- `optimized_resume.pdf` – AI-enhanced resume version.
+- `resume_analysis.md` – Summary of improvements and observations.
+- `screenshots/` – Screenshots of prompts and outputs.
+
+Outcome
+
+Successfully learned how AI can be used as a resume optimization assistant to improve ATS compatibility, recruiter readability, and professional presentation.
+
+Challenge
+
+Part of the #60DaysOfAI Challenge.
